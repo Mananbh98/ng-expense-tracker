@@ -1,5 +1,8 @@
 # ExpenseTracker
 
+[![DeepSource](https://deepsource.io/gh/Mananbh98/ng-expense-tracker.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/Mananbh98/ng-expense-tracker/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/Mananbh98/ng-expense-tracker.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/Mananbh98/ng-expense-tracker/?ref=repository-badge)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
