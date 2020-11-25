@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./balance-display.component.css']
 })
 export class BalanceDisplayComponent implements OnInit {
-  currentBal:string = "500";
+  currentBal: string = "10000";
 
 
   constructor() { }
