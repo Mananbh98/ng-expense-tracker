@@ -10,8 +10,9 @@
       type="number"
       name="addTransactionNumber"
       placeholder="Enter amount..."
+      [(ngModel)]="number"
     />
   </div>
 
-  <p><button>Add transaction</button></p>
+  <p><button (click)="onSubmitTransaction()">Add transaction</button></p>
 </div>

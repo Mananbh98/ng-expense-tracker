@@ -1,3 +1,4 @@
+import { AddTransactionComponent } from './../add-transaction/add-transaction.component';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -6,8 +7,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./balance-display.component.css']
 })
 export class BalanceDisplayComponent implements OnInit {
-  currentBal: string = "100000";
-
+  currentVal: number;
+  balanceVal: number ;
 
   constructor() { }
 
